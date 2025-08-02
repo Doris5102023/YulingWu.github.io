@@ -35,9 +35,9 @@ Design and Analysis(90), Data Structure(88)
 - IELTS: 6.5 (Listening:6.0, Reading:7.5, Writing:6.5, Speaking:6.0)
 
 ## 🏆 Activities & Awards
-- Chinese Collegiate Computing Competition **3rd Prize** | National Area | 2023.7
-- Huawei Ascend AI Innovation Competition **Silver Award** | Shaanxi Area | 2023.9
-- Mathematics Competition of Chinese College Students **3rd prize** | Shaanxi Area | 2023.12
+- Chinese Collegiate Computing Competition **3rd Prize** 
+- Huawei Ascend AI Innovation Competition **Silver Award**
+- Mathematics Competition of Chinese College Students **3rd prize**
 - Software Copyright
 - Excellent Scholarship of Shaanxi Normal University
 

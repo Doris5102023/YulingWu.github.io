@@ -17,7 +17,7 @@ My academic journey has equipped me with a strong technical background in machin
 
 ## 📰 News
 - [2025.06] Joined Prof. Qingyu Li's lab as a research assistant, working on analyzing remote sensing images using Vision-Language Models (VLM)
-- [2025.06] Graduated from the Innovation Experimental Class of Computer Science and Technology, [School of Artificial Intelligence and Computer Science](https://ccs.snnu.edu.cn/index.htm), Shaanxi Normal University, earning a Bachelor of Science degree
+- [2025.06] Graduated from the Innovation Experimental Class of Computer Science and Technology, School of Artificial Intelligence and Computer Science, Shaanxi Normal University, earning a Bachelor of Science degree
 - [2025.05] Awarded "Outstanding Graduation Thesis" at Shaanxi Normal University (Top 3% of the graduating class)
 - [2021.09] Started my bachelor's study in Computer Science and Technology at Shaanxi Normal University (SNNU)
 

@@ -23,7 +23,21 @@ My academic journey has equipped me with a strong technical background in machin
 
 ## 🎓 Education
 **B.S. in Computer Science and Technology(Innovation Experimental Class)** | Shaanxi Normal University | 2021-2025
-- GPA: 3.64 | Major ranking: Top15%
+- GPA: 3.64
+- Ranking: Top15%
 - Core Courses: Discrete Mathematics(99), Computer Network(97), Principles of Computer Composition(93), Algorithm
 Design and Analysis(90), Data Structure(88) 
 - Honors: Outstanding Students of Shaanxi Normal University
+
+## 💻 Technical Skills
+- Programming: Python (PyTorch/TensorFlow), C++
+- Domains: Machine Learning, Computer Vision, Remote Sensing, Natural Language Processing
+- IELTS: 6.5 (Listening:6.0, Reading:7.5, Writing:6.5, Speaking:6.0)
+
+## 🏆 Activities & Awards
+- Chinese Collegiate Computing Competition **3rd Prize** | National Area | 2023.7
+- Huawei Ascend AI Innovation Competition **Silver Award** | Shaanxi Area | 2023.9
+- Mathematics Competition of Chinese College Students **3rd prize** | Shaanxi Area | 2023.12
+- Software Copyright
+- Excellent Scholarship of Shaanxi Normal University
+

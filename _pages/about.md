@@ -9,9 +9,9 @@ redirect_from:
 
 I am a student in Computer Science at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). My research interests lie at the intersection of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Remote Sensing, with a particular focus on developing LLM-based solutions for analyzing and interpreting remote sensing data through enhanced contextual retrieval mechanisms.
 
-I am currently pursuing my research under the supervision of Prof.Qingyu Li, whose research expertise aligns closely with my academic interests. You can learn more about Prof.Li's work on her homepage:[(https://lqycrystal.github.io/qingyuli.github.io/)].
+I am currently pursuing my research under the supervision of Prof.Qingyu Li, whose research expertise aligns closely with my academic interests. You can learn more about Prof.Li's work on [her homepage:](https://lqycrystal.github.io/qingyuli.github.io/).
 
-Prior to joining CUHK-Shenzhen, I completed my Bachelor's degree in Computer Science and Technology at Shaanxi Normal University in 2025. During my undergraduate studies, I had the privilege of working with Professor Han CAO on research exploring the Collaborative Mode of Knowledge Graphs (KG) and Large Language Models. This experience laid a solid foundation for my current focus on integrating retrieval mechanisms with advanced language models to tackle complex domain-specific tasks.
+Prior to joining CUHK-Shenzhen, I completed my Bachelor's degree in Computer Science and Technology at Shaanxi Normal University in 2025. During my undergraduate studies, I had the privilege of working with Professor Han Cao on research exploring the Collaborative Mode of Knowledge Graphs (KG) and Large Language Models. This experience laid a solid foundation for my current focus on integrating retrieval mechanisms with advanced language models to tackle complex domain-specific tasks.
 
 My academic journey has equipped me with a strong technical background in machine learning, natural language processing, and data analysis, which I am actively applying to bridge the gap between general-purpose LLMs and specialized remote sensing applications.
 

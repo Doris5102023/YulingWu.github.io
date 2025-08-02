@@ -22,7 +22,7 @@ My academic journey has equipped me with a strong technical background in machin
 - [2021.09] Started my bachelor's study in Computer Science and Technology at Shaanxi Normal University (SNNU)
 
 ## 🎓 Education
-**B.S. in Computer Science and Technology(Innovation Experimental Class)** | Shaanxi Normal University | 2021-2025
+**B.S. in Computer Science and Technology** | Shaanxi Normal University | 2021-2025
 - GPA: 3.64
 - Ranking: Top15%
 - Core Courses: Discrete Mathematics(99), Computer Network(97), Principles of Computer Composition(93), Algorithm

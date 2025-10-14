@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My job: Turn messy data into chatty, capable big language models. It’s like teaching a super-smart (but very forgetful) friend to answer questions—except I don’t have to remind it to put away the dishes, just to stop making up facts.
+My job: Turn messy data into chatty, capable large language models. It’s like teaching a super-smart (but very forgetful) friend to answer questions—except I don’t have to remind it to put away the dishes, just to stop making up facts.
 
 
 ## 📰 News

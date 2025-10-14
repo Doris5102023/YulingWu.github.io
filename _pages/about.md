@@ -32,4 +32,4 @@ My undergraduate experience? A wild ride of acing exams I crammed for, forgettin
 - Mathematics Competition of Chinese College Students **3rd prize**
 - Software Copyright
 - Excellent Scholarship of Shaanxi Normal University
-(Unfortunately, there is no first prize among these awards (•̀ᴗ•́)و ̑̑)
+- (Unfortunately, there is no first prize among these awards (•̀ᴗ•́)و ̑̑)
